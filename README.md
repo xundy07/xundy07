@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![Alt text](https://images.credly.com/size/110x110/images/68fb1361-3dbc-4bcb-9748-66620b61bf01/pcpp-32-1xx.png)
+
+
 <!--
 **xundy07/xundy07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
